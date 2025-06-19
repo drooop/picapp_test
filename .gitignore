@@ -1,4 +1,3 @@
-/__pycache__/
-/resources/
-/__init__.py
-/__main__.py
+node_modules
+src-tauri/target
+.DS_Store
